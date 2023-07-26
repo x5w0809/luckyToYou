@@ -1,0 +1,26 @@
+{
+  "DataLoading": {
+    "description": "Auto imported from components/DataLoading.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Gift": {
+    "description": "Auto imported from components/Gift.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/Loader.vue"
+  },
+  "LocomotiveScroll": {
+    "description": "Auto imported from components/LocomotiveScroll.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "SlotMachine": {
+    "description": "Auto imported from components/SlotMachine.vue"
+  }
+}
